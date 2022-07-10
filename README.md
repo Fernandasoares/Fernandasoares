@@ -3,7 +3,7 @@
 - 👩🏻‍💻 Sou estudante de Engenharia de Software. <br>
 - 🌱 Estou interessada em Dart/Flutter. <br>
 - 🚀 Atualmente, estou desenvolvendo softwares e aplicativos com Flutter. <br>
-- ⚡ Curiosidade: Meu passa tempo favorito é assistir séries.<br>
+- ⚡ Curiosidade: Amo assistir jogos de vôlei.<br>
 <br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nandastwo)
